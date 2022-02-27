@@ -1,0 +1,5 @@
+package com.BPP.utilities;
+
+public interface ScreenshotUtility {
+
+}
